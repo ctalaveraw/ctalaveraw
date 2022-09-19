@@ -13,7 +13,7 @@
 
 --->
 
-🛸 🪐 Welcome to my personal project page! 🛸 🪐
+🛸 🪐 Hello, and thanks for visiting my personal project page! 🛸 🪐
 
 <p align="center">
   <img src="./images/washington_logo_black_2.png">
@@ -169,7 +169,7 @@ RDS:
 ### IaC
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=plastic&logo=packer&logoColor=%2302A8EF)
 
