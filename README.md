@@ -21,60 +21,6 @@
 
 Welcome to this little corner of the web 😄
 
-## Stats
-
-### Today's visitors
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=ctalaveraw%2Fctalaveraw&label=Guests)](https://visit263759orbadge.io/status?path=ctalaveraw%2Fctalaveraw)
-
-### Time on GitHub
-
-[![Years Badge](https://badges.strrl.dev/years/ctalaveraw)](https://badges.strrl.dev)
-
-### Public repositories
-
-[![Public Repos Badge](https://badges.strrl.dev/repos/ctalaveraw)](https://badges.strrl.dev)
-
-### GitHub Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ctalaveraw&count_private=true&show_icons=true&include_all_commits=true)
-
-### Commits
-
-[![Commits Daily](https://badges.strrl.dev/commits/daily/ctalaveraw)](https://badges.strrl.dev)
-[![Commits Weekly](https://badges.strrl.dev/commits/weekly/ctalaveraw)](https://badges.strrl.dev)
-[![Commits Monthly](https://badges.strrl.dev/commits/monthly/ctalaveraw)](https://badges.strrl.dev)
-[![Commits Yearly](https://badges.strrl.dev/commits/yearly/ctalaveraw)](https://badges.strrl.dev)
-[![Commits All](https://badges.strrl.dev/commits/all/ctalaveraw)](https://badges.strrl.dev)
-
-### Contributions
-
-[![Contributions Daily](https://badges.strrl.dev/contributions/daily/ctalaveraw)](https://badges.strrl.dev)
-[![Contributions Weekly](https://badges.strrl.dev/contributions/weekly/ctalaveraw)](https://badges.strrl.dev)
-[![Contributions Monthly](https://badges.strrl.dev/contributions/monthly/ctalaveraw)](https://badges.strrl.dev)
-[![Contributions Yearly](https://badges.strrl.dev/contributions/yearly/ctalaveraw)](https://badges.strrl.dev)
-[![Contributions All](https://badges.strrl.dev/contributions/all/ctalaveraw)](https://badges.strrl.dev)
-
-### Issues
-
-[![Issues Daily](https://badges.strrl.dev/issues/daily/ctalaveraw)](https://badges.strrl.dev)
-[![Issues Weekly](https://badges.strrl.dev/issues/weekly/ctalaveraw)](https://badges.strrl.dev)
-[![Issues Monthly](https://badges.strrl.dev/issues/monthly/ctalaveraw)](https://badges.strrl.dev)
-[![Issues Yearly](https://badges.strrl.dev/issues/yearly/ctalaveraw)](https://badges.strrl.dev)
-[![Issues All](https://badges.strrl.dev/issues/all/ctalaveraw)](https://badges.strrl.dev)
-
-### PRs
-
-[![PRs Daily](https://badges.strrl.dev/prs/daily/ctalaveraw)](https://badges.strrl.dev)
-[![PRs Weekly](https://badges.strrl.dev/prs/weekly/ctalaveraw)](https://badges.strrl.dev)
-[![PRs Monthly](https://badges.strrl.dev/prs/monthly/ctalaveraw)](https://badges.strrl.dev)
-[![PRs Yearly](https://badges.strrl.dev/prs/yearly/ctalaveraw)](https://badges.strrl.dev)
-[![PRs All](https://badges.strrl.dev/prs/all/ctalaveraw)](https://badges.strrl.dev)
-
-### Language Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctalaveraw&hide=TeX&layout=compact)
-
 ## About me
 
 I'm a lifelong learner and chaser of cool and complicated things!
@@ -229,6 +175,60 @@ Guest OS:
 Containerization:
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+## Stats
+
+### Today's visitors
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=ctalaveraw%2Fctalaveraw&label=Guests)](https://visit263759orbadge.io/status?path=ctalaveraw%2Fctalaveraw)
+
+### Time on GitHub
+
+[![Years Badge](https://badges.strrl.dev/years/ctalaveraw)](https://badges.strrl.dev)
+
+### Public repositories
+
+[![Public Repos Badge](https://badges.strrl.dev/repos/ctalaveraw)](https://badges.strrl.dev)
+
+### GitHub Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ctalaveraw&count_private=true&show_icons=true&include_all_commits=true)
+
+### Commits
+
+[![Commits Daily](https://badges.strrl.dev/commits/daily/ctalaveraw)](https://badges.strrl.dev)
+[![Commits Weekly](https://badges.strrl.dev/commits/weekly/ctalaveraw)](https://badges.strrl.dev)
+[![Commits Monthly](https://badges.strrl.dev/commits/monthly/ctalaveraw)](https://badges.strrl.dev)
+[![Commits Yearly](https://badges.strrl.dev/commits/yearly/ctalaveraw)](https://badges.strrl.dev)
+[![Commits All](https://badges.strrl.dev/commits/all/ctalaveraw)](https://badges.strrl.dev)
+
+### Contributions
+
+[![Contributions Daily](https://badges.strrl.dev/contributions/daily/ctalaveraw)](https://badges.strrl.dev)
+[![Contributions Weekly](https://badges.strrl.dev/contributions/weekly/ctalaveraw)](https://badges.strrl.dev)
+[![Contributions Monthly](https://badges.strrl.dev/contributions/monthly/ctalaveraw)](https://badges.strrl.dev)
+[![Contributions Yearly](https://badges.strrl.dev/contributions/yearly/ctalaveraw)](https://badges.strrl.dev)
+[![Contributions All](https://badges.strrl.dev/contributions/all/ctalaveraw)](https://badges.strrl.dev)
+
+### Issues
+
+[![Issues Daily](https://badges.strrl.dev/issues/daily/ctalaveraw)](https://badges.strrl.dev)
+[![Issues Weekly](https://badges.strrl.dev/issues/weekly/ctalaveraw)](https://badges.strrl.dev)
+[![Issues Monthly](https://badges.strrl.dev/issues/monthly/ctalaveraw)](https://badges.strrl.dev)
+[![Issues Yearly](https://badges.strrl.dev/issues/yearly/ctalaveraw)](https://badges.strrl.dev)
+[![Issues All](https://badges.strrl.dev/issues/all/ctalaveraw)](https://badges.strrl.dev)
+
+### PRs
+
+[![PRs Daily](https://badges.strrl.dev/prs/daily/ctalaveraw)](https://badges.strrl.dev)
+[![PRs Weekly](https://badges.strrl.dev/prs/weekly/ctalaveraw)](https://badges.strrl.dev)
+[![PRs Monthly](https://badges.strrl.dev/prs/monthly/ctalaveraw)](https://badges.strrl.dev)
+[![PRs Yearly](https://badges.strrl.dev/prs/yearly/ctalaveraw)](https://badges.strrl.dev)
+[![PRs All](https://badges.strrl.dev/prs/all/ctalaveraw)](https://badges.strrl.dev)
+
+### Language Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctalaveraw&hide=TeX&layout=compact)
 
 
 <!--
