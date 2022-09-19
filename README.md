@@ -1,5 +1,8 @@
 # 👨🏽‍💻 Salutation, visitor! 👨🏽‍💻
 
+<!---
+  commenting out these logos, there is no room
+
 <p align="center">
   <img src="./images/washington_logo_black.png">
 </p>
@@ -8,37 +11,74 @@
   <img src="./images/washington_logo_retro.gif">
 </p>
 
+--->
+
+🛸 🪐 Welcome to my personal project page! 🛸 🪐
+
 <p align="center">
   <img src="./images/washington_logo_black_2.png">
 </p>
 
-🛸 🪐 Welcome to my personal project page! 🛸 🪐
-
-
-
-Out of the hundreds of thousands of developers, I'm happy you made it to this corner of the web.
+Welcome to this little corner of the web 😄
 
 ## Stats
 
-Years on GitHub:
+<!---
+Commenting out "Visitor Count"
 
-[![Years Badge](https://badges.strrl.dev/years/$ctalaveraw)](https://badges.strrl.dev)
+  ### Visitor Count
 
-Contributions:
+  [![Visits Badge](https://badges.strrl.dev/visits/ctalaveraw/ctalaveraw)](https://badges.strrl.dev)
 
-[![Public Repos Badge](https://badges.strrl.dev/repos/$ctalaveraw)](https://badges.strrl.dev)
-[![Contributions All](https://badges.strrl.dev/contributions/$all/$ctalaveraw)](https://badges.strrl.dev)
-[![Contributions Daily](https://badges.strrl.dev/contributions/$daily/$ctalaveraw)](https://badges.strrl.dev)
-[![Contributions Weekly](https://badges.strrl.dev/contributions/$weekly/$ctalaveraw)](https://badges.strrl.dev)
-[![Contributions Monthly](https://badges.strrl.dev/contributions/$monthly/$ctalaveraw)](https://badges.strrl.dev)
-[![Contributions Yearly](https://badges.strrl.dev/contributions/$yearly/$ctalaveraw)](https://badges.strrl.dev)
+--->
+
+### Commits
+
+[![Commits Daily](https://badges.strrl.dev/commits/daily/ctalaveraw)](https://badges.strrl.dev)
+[![Commits Weekly](https://badges.strrl.dev/commits/weekly/ctalaveraw)](https://badges.strrl.dev)
+[![Commits Monthly](https://badges.strrl.dev/commits/monthly/ctalaveraw)](https://badges.strrl.dev)
+[![Commits Yearly](https://badges.strrl.dev/commits/yearly/ctalaveraw)](https://badges.strrl.dev)
+[![Commits All](https://badges.strrl.dev/commits/all/ctalaveraw)](https://badges.strrl.dev)
+
+### Contributions
+
+[![Contributions Daily](https://badges.strrl.dev/contributions/daily/ctalaveraw)](https://badges.strrl.dev)
+[![Contributions Weekly](https://badges.strrl.dev/contributions/weekly/ctalaveraw)](https://badges.strrl.dev)
+[![Contributions Monthly](https://badges.strrl.dev/contributions/monthly/ctalaveraw)](https://badges.strrl.dev)
+[![Contributions Yearly](https://badges.strrl.dev/contributions/yearly/ctalaveraw)](https://badges.strrl.dev)
+[![Contributions All](https://badges.strrl.dev/contributions/all/ctalaveraw)](https://badges.strrl.dev)
+
+### Issues
+
+[![Issues Daily](https://badges.strrl.dev/issues/daily/ctalaveraw)](https://badges.strrl.dev)
+[![Issues Weekly](https://badges.strrl.dev/issues/weekly/ctalaveraw)](https://badges.strrl.dev)
+[![Issues Monthly](https://badges.strrl.dev/issues/monthly/ctalaveraw)](https://badges.strrl.dev)
+[![Issues Yearly](https://badges.strrl.dev/issues/yearly/ctalaveraw)](https://badges.strrl.dev)
+[![Issues All](https://badges.strrl.dev/issues/all/ctalaveraw)](https://badges.strrl.dev)
+
+### PRs
+
+[![PRs Daily](https://badges.strrl.dev/prs/daily/ctalaveraw)](https://badges.strrl.dev)
+[![PRs Weekly](https://badges.strrl.dev/prs/weekly/ctalaveraw)](https://badges.strrl.dev)
+[![PRs Monthly](https://badges.strrl.dev/prs/monthly/ctalaveraw)](https://badges.strrl.dev)
+[![PRs Yearly](https://badges.strrl.dev/prs/yearly/ctalaveraw)](https://badges.strrl.dev)
+[![PRs All](https://badges.strrl.dev/prs/all/ctalaveraw)](https://badges.strrl.dev)
+
+### Public repositories
+
+[![Public Repos Badge](https://badges.strrl.dev/repos/ctalaveraw)](https://badges.strrl.dev)
+
+### Time on GitHub
+
+[![Years Badge](https://badges.strrl.dev/years/ctalaveraw)](https://badges.strrl.dev)
 
 ## About me
-
 
 I'm a lifelong learner and chaser of cool and complicated things!
 
 Starting out as a biology nerd, I ended up in the tech world due to some crazy [circumstances](lifestory.md), but I could not be happier that life turned out this way for me 😄
+
+Nowadays, I happily spend my free time researching tech projects for my homelab, always lost in the grand ocean of computing and technology.
 
 🚀🚀 Thanks for checking out my project page 🚀🚀
 
@@ -186,8 +226,6 @@ Containerization:
 Services:
 
 ![Jellyfin](https://img.shields.io/badge/-Jellyfin-00A4DC?logo=jellyfin&logoColor=white&style=for-the-badge)
-
-#
 
 <!--
 **ctalaveraw/ctalaveraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
