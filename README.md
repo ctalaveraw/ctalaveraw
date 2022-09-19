@@ -190,13 +190,17 @@ RDS:
 
 OS:
 
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Arch](https://img.shields.io/badge/Arch%20Linux%205.19.6-1793D1?logo=linux&logoColor=fff&style=plastic&label=Linux)
+
+CPU:
+
+![AMD](https://img.shields.io/badge/-Ryzen%209%205900X-ED1C24?logo=amd&logoColor=white&style=plastic&label=AMD)
 
 GPUs:
 
-![nVIDIA](https://img.shields.io/badge/%20RTX%203070%20Ti-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white&label=nVIDIA)
+![nVIDIA](https://img.shields.io/badge/%20RTX%203070%20Ti-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white&label=nVIDIA)
 
-![AMD](https://img.shields.io/badge/-Radeon%206700%20XT-ED1C24?logo=amd&logoColor=white&style=for-the-badge&label=AMD)
+![AMD](https://img.shields.io/badge/-Radeon%206700%20XT-ED1C24?logo=amd&logoColor=white&style=plastic&label=AMD)
 
 Gaming Platforms:
 
@@ -223,9 +227,6 @@ Containerization:
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-Services:
-
-![Jellyfin](https://img.shields.io/badge/-Jellyfin-00A4DC?logo=jellyfin&logoColor=white&style=for-the-badge)
 
 <!--
 **ctalaveraw/ctalaveraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
