@@ -23,14 +23,21 @@ Welcome to this little corner of the web 😄
 
 ## Stats
 
-<!---
-Commenting out "Visitor Count"
+### Today's visitors
 
-  ### Visitor Count
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=ctalaveraw%2Fctalaveraw&label=Guests)](https://visit263759orbadge.io/status?path=ctalaveraw%2Fctalaveraw)
 
-  [![Visits Badge](https://badges.strrl.dev/visits/ctalaveraw/ctalaveraw)](https://badges.strrl.dev)
+### Time on GitHub
 
---->
+[![Years Badge](https://badges.strrl.dev/years/ctalaveraw)](https://badges.strrl.dev)
+
+### Public repositories
+
+[![Public Repos Badge](https://badges.strrl.dev/repos/ctalaveraw)](https://badges.strrl.dev)
+
+### GitHub Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ctalaveraw&count_private=true&show_icons=true&include_all_commits=true)
 
 ### Commits
 
@@ -64,13 +71,9 @@ Commenting out "Visitor Count"
 [![PRs Yearly](https://badges.strrl.dev/prs/yearly/ctalaveraw)](https://badges.strrl.dev)
 [![PRs All](https://badges.strrl.dev/prs/all/ctalaveraw)](https://badges.strrl.dev)
 
-### Public repositories
+### Language Stats
 
-[![Public Repos Badge](https://badges.strrl.dev/repos/ctalaveraw)](https://badges.strrl.dev)
-
-### Time on GitHub
-
-[![Years Badge](https://badges.strrl.dev/years/ctalaveraw)](https://badges.strrl.dev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctalaveraw&hide=TeX&layout=compact)
 
 ## About me
 
