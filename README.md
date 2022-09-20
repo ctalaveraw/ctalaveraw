@@ -178,7 +178,7 @@ Containerization:
 
 ## Stats
 
-### Today's visitors
+### Total visits
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=ctalaveraw%2Fctalaveraw&label=Guests)](https://visit263759orbadge.io/status?path=ctalaveraw%2Fctalaveraw)
 
