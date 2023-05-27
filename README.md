@@ -15,10 +15,6 @@
 
 🛸 🪐 Hello, and thanks for visiting my personal project page! 🛸 🪐
 
-<p align="center">
-  <img src="./images/washington_logo_black_2.png">
-</p>
-
 Welcome to this little corner of the web 😄
 
 ## About me
