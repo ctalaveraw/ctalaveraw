@@ -27,7 +27,11 @@ Nowadays, I happily spend my free time researching tech projects for my homelab,
 
 🚀🚀 Thanks for checking out my project page 🚀🚀
 
-<! -- [![Linkedin](./images/linkedin_logo.png)](https://www.linkedin.com/in/ctalaveraw/) -->
+<!---
+
+[![Linkedin](./images/linkedin_logo.png)](https://www.linkedin.com/in/ctalaveraw/)
+
+--->
 
 ## Enterprise tools I've worked with
 
