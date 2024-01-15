@@ -20,8 +20,9 @@ Welcome to this little corner of the web 😄
 ## About me
 
 I'm a lifelong learner and chaser of cool and complicated things!
-
+<!---
 Starting out as a biology nerd, I ended up in the tech world due to some crazy [circumstances](lifestory.md), but I could not be happier that life turned out this way for me 😄
+--->
 
 Nowadays, I happily spend my free time researching tech projects for my homelab, always lost in the grand ocean of computing and technology.
 
