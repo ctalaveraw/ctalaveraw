@@ -30,11 +30,9 @@ Nowadays, I happily spend my free time researching tech projects for my homelab,
 
 <!---
 
-[![Linkedin](./images/linkedin_logo.png)](https://www.linkedin.com/in/ctalaveraw/)
-
 --->
 
-## Enterprise tools I've worked with
+## Stack
 
 ### OS
 
@@ -75,31 +73,20 @@ Documentation:
 
 ![Joplin](https://img.shields.io/badge/Joplin-1071D3?style=plastic&logo=joplin&logoColor=white)
 
-### Programming
+### Programming and Scripting
 
-Languages:
+Languages and Frameworks:
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
 
-APIs & Frameworks:
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=plastic&logo=json&logoColor=white)
-
-Package Management:
-
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-Scripting:
 
 ![BASH](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=plastic&logo=powershell&logoColor=white)
+
 ![GNU bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=plastic&logo=GNU%20Bash&logoColor=white)
 
 Source Control
@@ -134,9 +121,9 @@ RDS:
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-## Nerd-life outside work
+## Personal
 
-### Personal Gaming Stack
+### Gaming
 
 OS:
 
@@ -152,18 +139,8 @@ GPUs:
 
 ![AMD](https://img.shields.io/badge/-Radeon%206700%20XT-ED1C24?logo=amd&logoColor=white&style=plastic&label=AMD)
 
-Gaming Platforms:
 
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-
-Gaming Purchasing:
-
-![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
-![Humble Bundle](https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=for-the-badge&logo=HumbleBundle&logoColor=white)
-
-### Homelab Stack
+### Homelab
 
 Hypervisor:
 
@@ -173,7 +150,7 @@ Guest OS:
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-Containerization:
+App infra:
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
