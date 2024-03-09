@@ -1,5 +1,3 @@
-# 👨🏽‍💻 Salutation, visitor! 👨🏽‍💻
-
 <!---
   commenting out these logos, there is no room
 
@@ -13,20 +11,10 @@
 
 --->
 
-🛸 🪐 Hello, and thanks for visiting my personal project page! 🛸 🪐
+Engineer of all the things.
+Burn more time than my family would like on projects and the lab.
 
-Welcome to this little corner of the web 😄
-
-## About me
-
-I'm a lifelong learner and chaser of cool and complicated things!
-<!---
-Starting out as a biology nerd, I ended up in the tech world due to some crazy [circumstances](lifestory.md), but I could not be happier that life turned out this way for me 😄
---->
-
-Nowadays, I happily spend my free time researching tech projects for my homelab, always lost in the grand ocean of computing and technology.
-
-🚀🚀 Thanks for checking out my project page 🚀🚀
+Always continue learning.
 
 <!---
 
@@ -43,34 +31,21 @@ Nowadays, I happily spend my free time researching tech projects for my homelab,
 ![iOS](https://img.shields.io/badge/iOS-000000?style=plastic&logo=ios&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white)
 
-### Cloud Platforms
+### IaaS
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white)
 
-### Team Collaboration
-
-Communication:
-
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
-
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white)
-
-Project Management:
+Ops:
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-
-![Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=plastic&logo=microsoft-visio&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=plastic&logo=trello&logoColor=white)
 
-Documentation:
+Docs:
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
+![Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=plastic&logo=microsoft-visio&logoColor=white)
 ![Joplin](https://img.shields.io/badge/Joplin-1071D3?style=plastic&logo=joplin&logoColor=white)
 
 ### Programming and Scripting
@@ -78,16 +53,11 @@ Documentation:
 Languages and Frameworks:
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
 
 ![BASH](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
 ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=plastic&logo=powershell&logoColor=white)
-
-![GNU bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=plastic&logo=GNU%20Bash&logoColor=white)
 
 Source Control
 
@@ -95,12 +65,9 @@ Source Control
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white)
 
-### Databases
-
-RDS:
+### DB
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)
 
 ### IaC
@@ -113,7 +80,6 @@ RDS:
 ### Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=plastic&logo=kubernetes&logoColor=white)
 
 ### CI/CD
