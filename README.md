@@ -11,8 +11,8 @@
 
 --->
 
-Engineer of all the things.
-Burn more time than my family would like on projects and the lab.
+Engineer of all things self-hosted, automated and nerdy.
+Burn more time than my family would like on projects and the homelab.
 
 Always continue learning.
 
