@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 320" role="img" aria-labelledby="title desc">
+  <title id="title">Christian Talavera — infrastructure engineering portfolio</title>
+  <desc id="desc">A dark editor-inspired banner with a Git-to-ARM64 delivery path. Select it to visit the portfolio.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#111b2c"/>
+    </linearGradient>
+    <linearGradient id="heading" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f4f7ff"/>
+      <stop offset="1" stop-color="#94c6ff"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="70%" cy="35%" r="65%">
+      <stop offset="0" stop-color="#1b5275" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#0b1220" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#91b8e7" stroke-opacity=".065"/>
+    </pattern>
+    <clipPath id="rounded"><rect width="1240" height="320" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="1240" height="320" fill="url(#background)"/>
+    <rect width="1240" height="320" fill="url(#halo)"/>
+    <rect width="1240" height="320" fill="url(#grid)"/>
+    <path d="M0 0H1240V320H0Z" fill="none" stroke="#3c5474" stroke-width="2"/>
+    <circle cx="38" cy="34" r="5" fill="#ed6a5e"/>
+    <circle cx="57" cy="34" r="5" fill="#f4bf50"/>
+    <circle cx="76" cy="34" r="5" fill="#61c454"/>
+    <text x="105" y="39" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#849fbd">chris@portfolio:~</text>
+    <path d="M0 58H1240" stroke="#293e59"/>
+    <text x="54" y="92" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" fill="#7bdab6" letter-spacing="2">CHRISTIAN TALAVERA</text>
+    <text x="52" y="151" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="50" font-weight="750" fill="url(#heading)">Cloud. Linux.</text>
+    <text x="52" y="199" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="41" font-weight="700" fill="#f0f5ff">Platform engineering.</text>
+    <text x="54" y="226" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#9eb3ca">ARM64  /  OPENWRT  /  AUTOMATION</text>
+    <rect x="53" y="246" width="242" height="49" rx="9" fill="#16354a" stroke="#4ebca4" stroke-opacity=".8"/>
+    <text x="73" y="277" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" font-weight="700" fill="#b3f4df">OPEN PORTFOLIO  ↗</text>
+    <path d="M326 269H580" stroke="#385674" stroke-dasharray="3 7" stroke-width="2"/>
+    <g transform="translate(647 84)">
+      <rect width="542" height="217" rx="13" fill="#0e1727" stroke="#39516d"/>
+      <rect width="542" height="34" rx="13" fill="#17253a"/>
+      <path d="M0 34H542" stroke="#39516d"/>
+      <text x="19" y="23" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#aac5e0">delivery-path.yml</text>
+      <text x="519" y="23" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" fill="#70d5b1">ARM64</text>
+      <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" text-anchor="middle">
+        <rect x="18" y="57" width="111" height="66" rx="8" fill="#16293d" stroke="#406484"/>
+        <text x="73" y="83" fill="#e4eefb" font-weight="700">SOURCE</text>
+        <text x="73" y="103" fill="#88a5c3" font-size="11">GitHub</text>
+        <rect x="150" y="57" width="111" height="66" rx="8" fill="#16293d" stroke="#406484"/>
+        <text x="205" y="83" fill="#e4eefb" font-weight="700">CI</text>
+        <text x="205" y="103" fill="#88a5c3" font-size="11">build / test</text>
+        <rect x="282" y="57" width="111" height="66" rx="8" fill="#16293d" stroke="#406484"/>
+        <text x="337" y="83" fill="#e4eefb" font-weight="700">OCI</text>
+        <text x="337" y="103" fill="#88a5c3" font-size="11">digest</text>
+        <rect x="414" y="57" width="110" height="66" rx="8" fill="#16293d" stroke="#406484"/>
+        <text x="469" y="83" fill="#e4eefb" font-weight="700">FLUX</text>
+        <text x="469" y="103" fill="#88a5c3" font-size="11">reconcile</text>
+      </g>
+      <g stroke="#79e5c0" stroke-width="2" fill="none" stroke-linecap="round">
+        <path d="M129 90H146M142 86L146 90L142 94"/>
+        <path d="M261 90H278M274 86L278 90L274 94"/>
+        <path d="M393 90H410M406 86L410 90L406 94"/>
+        <path d="M469 123V143"/>
+      </g>
+      <rect x="18" y="147" width="506" height="53" rx="8" fill="#132c35" stroke="#2f8878"/>
+      <circle cx="39" cy="173" r="6" fill="#70dfba"/>
+      <text x="56" y="170" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" font-weight="700" fill="#e1f9f0">Raspberry Pi Kubernetes cluster</text>
+      <text x="56" y="187" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" fill="#9fbaaF">Ansible · GitOps · observability</text>
+    </g>
+  </g>
+</svg>
